@@ -1,0 +1,16 @@
+.droplet,
+.droplet * {
+    box-sizing: border-box;
+}
+
+.droplet a,
+.droplet button {
+    color: inherit;
+}
+
+.droplet button {
+    padding: 0;
+    border: 0;
+    background-color: inherit;
+    font-size: inherit;
+}
