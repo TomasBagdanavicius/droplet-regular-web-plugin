@@ -3,10 +3,10 @@
 **A CSS and JavaScript driven info browser & carousel.**
 
 <video muted loop autoplay width="400" height="500">
-    <source src="https://user-images.githubusercontent.com/127614918/233903246-d33334b7-3c78-4812-beee-7c953ed46b80.mp4" type="video/mp4">
+    <source src="https://github.com/TomasBagdanavicius/droplet-regular-web-plugin/assets/127614918/3f2615ac-e4ea-4d61-b531-04ec5ef3679e" type="video/mp4">
 </video>
 
-https://user-images.githubusercontent.com/127614918/233903246-d33334b7-3c78-4812-beee-7c953ed46b80.mp4
+https://github.com/TomasBagdanavicius/droplet-regular-web-plugin/assets/127614918/3f2615ac-e4ea-4d61-b531-04ec5ef3679e
 
 ## Quick Start
 
